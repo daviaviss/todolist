@@ -15,4 +15,4 @@ To run the project locally, the default is on port 3000 (http://localhost:3000/)
 ---
 
 **Description:**
-The Project is a tod-list where it is possible to add a new task and remove it.
+The Project is a to-do list where it is possible to add a new task and remove it.
